@@ -1,4 +1,4 @@
-# 🚀 Prueba Técnica – Integración API REST 3.0 de Khipu (DemoBank)
+#Prueba Técnica – Integración API REST 3.0 de Khipu (DemoBank)
 
 ## Descripción
 
